@@ -1,6 +1,3 @@
 This repo contains a few list of curated feeds by "Superfeedr":http://superfeedr.com.
 
-@curated.txt@ : contains a list of curated feeds from various platforms. Feel free to get in touch with us if you can help us make this list better.
-@popular.txt@ : some feeds extracted from the curated.txt list that are particularly popular on Superfeedr. 
-
-*Warning* : these lists may not fit your exact needs (not only english, some topics may not be what you're looking, some feeds may be NSFW... ), we do always encourage people to build their own list and subscribe only to the content they want. 
+**June 2015**: we decided to remove these outdated lists. Yet, Superfeedr now has a "popularity rank":http://documentation.superfeedr.com/schema.html#popularity for each and every feed. Using our tracking feeds you can also very easily subscribe to the "most popular feeds":http://blog.superfeedr.com/subscribe-to-popular-rss-feeds/.
